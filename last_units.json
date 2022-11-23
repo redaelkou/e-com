@@ -1,0 +1,46 @@
+[
+    {
+        "pId": 66,
+        "pName": "HOME STUDIO",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "black",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "slippers",
+        "imgSrc": "https://eu.muroexe.com/759-home_default/slipper-black.jpg"
+    },
+    {
+        "pId": 67,
+        "pName": "HOME KITCHEN",
+        "pPrice": 152,
+        "inStock": 8,
+        "color": "BLUE",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 38, 45],
+        "category": "slippers",
+        "imgSrc": "https://eu.muroexe.com/667-home_default/slipper-blue.jpg"
+    },
+    {
+        "pId": 68,
+        "pName": "HOME MOOD BLACK",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "black",
+        "style": "cool",
+        "sizesAvailable": [38, 40, 39, 47],
+        "category": "slippers",
+        "imgSrc": "https://eu.muroexe.com/664-home_default/home-mood-black.jpg"
+    },
+    {
+        "pId": 69,
+        "pName": "HOME MOOD BLUE",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "blue",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "slippers",
+        "imgSrc": "https://eu.muroexe.com/664-home_default/home-mood-black.jpg"
+    }
+]

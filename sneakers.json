@@ -1,0 +1,166 @@
+[
+    {
+        "pId": 1,
+        "pName": "BLUMB BLACK",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66698-home_default/plump-black.jpg"
+    },
+    {
+        "pId": 2,
+        "pName": "NOOK BLACK",
+        "pPrice": 152,
+        "inStock": 8,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 38, 45],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66683-home_default/nook-black.jpg"
+    },
+    {
+        "pId": 3,
+        "pName": "MATARIA MOD CAMEL",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "brown",
+        "style": "Water resistant",
+        "sizesAvailable": [38, 40, 39, 47],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66668-home_default/materia-mod-camel.jpg"
+    },
+    {
+        "pId": 4,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66345-home_default/custom.jpg"
+    },
+    {
+        "pId": 5,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66345-home_default/custom.jpg"
+    },
+    {
+        "pId": 6,
+        "pName": "MAREIA STUDIO BLACK",
+        "pPrice":230,
+        "inStock": 6,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [47, 38, 46, 37],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/1125-home_default/materia-studio-black.jpg"
+    },
+    {
+        "pId": 7,
+        "pName": "MAREIA STUDIO BLACK",
+        "pPrice": 330,
+        "inStock": 12,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66305-home_default/california-grey.jpg"
+    },
+    {
+        "pId": 8,
+        "pName": "ATOM CALIFORNIA",
+        "pPrice": 285,
+        "inStock": 7,
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66309-home_default/california-brown.jpg"
+    },
+    {
+        "pId": 9,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "gray",
+        "style": "cool",
+        "sizesAvailable": [37],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66345-home_default/custom.jpg"
+    },
+    {
+        "pId": 10,
+        "pName": "ALFA NEO DARK GRAY",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "gray",
+        "style": "casual",
+        "sizesAvailable": [40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/100-home_default/alpha-neo-dark-grey.jpg"
+    },
+    {
+        "pId": 11,
+        "pName": "ATOM CUSTOM BLACK",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "black",
+        "style": "casual",
+        "sizesAvailable": [39],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66352-home_default/custom.jpg"
+    },
+    {
+        "pId": 12,
+        "pName": "ATOM CALIFORNIA WHITE",
+        "pPrice": 345,
+        "inStock": 15,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66313-home_default/california-white.jpg"
+    },
+    {
+        "pId": 13,
+        "pName": "ATOM MAGINETIC PINK",
+        "pPrice": 345,
+        "inStock": 15,
+        "color": "pink",
+        "style": "sporty",
+        "sizesAvailable": [46, 47],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/1088-home_default/materia-magnetic-pink.jpg"
+    },
+    {
+        "pId": 14,
+        "pName": "JUNO BIRDIE GRAPE",
+        "pPrice": 345,
+        "inStock": 15,
+        "color": "grape",
+        "style": "sporty",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/731-home_default/juno-birdie-grape.jpg"
+    },
+    {
+        "pId": 15,
+        "pName": "STRAT UP EVLOVE BLUE",
+        "pPrice": 345,
+        "inStock": 15,
+        "color": "blue",
+        "style": "casual",
+        "sizesAvailable": [36],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/1306-home_default/startup-evolve-blue.jpg"
+    }
+]

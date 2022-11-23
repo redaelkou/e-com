@@ -1,0 +1,101 @@
+[
+    {
+        "pId": 44,
+        "pName": "DEIMOS BLACK",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "brown",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66727-home_default/deimos-black.jpg"
+    },
+    {
+        "pId": 45,
+        "pName": "MATARIA MOD CAMEL",
+        "pPrice": 152,
+        "inStock": 8,
+        "color": "brown",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 38, 45],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66668-home_default/materia-mod-camel.jpg"
+    },
+    {
+        "pId": 46,
+        "pName": "MATARIA MOD SAND",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "gray",
+        "style": "Water resistant",
+        "sizesAvailable": [38, 40, 39, 47],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66673-home_default/materia-mod-sand.jpg"
+    },
+    {
+        "pId": 47,
+        "pName": "MATARIA MOD BLUE",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "black",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66678-home_default/materia-mod-blue.jpg"
+    },
+    {
+        "pId": 48,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66706-home_default/plump-skin.jpg"
+    },
+    {
+        "pId": 49,
+        "pName": "MAREIA VINTAGE BLACK",
+        "pPrice":230,
+        "inStock": 6,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [47, 38, 46, 37],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/983-home_default/materia-boot-vintage-black.jpg"
+    },
+    {
+        "pId": 50,
+        "pName": "ALPHA BOOT BROWN",
+        "pPrice": 330,
+        "inStock": 12,
+        "color": "brown",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66-home_default/alpha-boot-brown.jpg"
+    },
+    {
+        "pId": 60,
+        "pName": "ALPHA BOOT BLACK",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/70-home_default/alpha-boot-black.jpg"
+    },
+    {
+        "pId": 70,
+        "pName": "ALPHA BOOT BEIGE",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "beige",
+        "style": "cool",
+        "sizesAvailable": [37],
+        "category": "boots",
+        "imgSrc": "https://eu.muroexe.com/66711-home_default/deimos-beige.jpg"
+    }
+]

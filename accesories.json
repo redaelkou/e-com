@@ -1,0 +1,101 @@
+[
+    {
+        "pId": 57,
+        "pName": "SUNCLASSES ECLIPSE BEIGE",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "beige",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1368-home_default/sunglasses-eclipse-beige.jpg"
+    },
+    {
+        "pId": 58,
+        "pName": "SUITE GRAPE",
+        "pPrice": 152,
+        "inStock": 8,
+        "color": "grape",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 38, 45],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1362-home_default/suite-grape.jpg"
+    },
+    {
+        "pId": 59,
+        "pName": "BLOCK BEIGE",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "beige",
+        "style": "cool",
+        "sizesAvailable": [38, 40, 39, 47],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/383-home_default/block-beige.jpg"
+    },
+    {
+        "pId": 60,
+        "pName": "POCKET BLACK",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1532-home_default/pocket-x-black.jpg"
+    },
+    {
+        "pId": 61,
+        "pName": "SUNCLASSES ECLIPSE BLACK",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "black",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1394-home_default/sunglasses-eclipse-black.jpg"
+    },
+    {
+        "pId": 62,
+        "pName": "SUITE BLUE",
+        "pPrice":230,
+        "inStock": 6,
+        "color": "BLUE",
+        "style": "Water resistant",
+        "sizesAvailable": [47, 38, 46, 37],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1356-home_default/suite-blue.jpg"
+    },
+    {
+        "pId": 63,
+        "pName": "BLOCK BLUE",
+        "pPrice": 330,
+        "inStock": 12,
+        "color": "BLUE",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/401-home_default/block-blue.jpg"
+    },
+    {
+        "pId": 64,
+        "pName": "POCKET BLACK",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "black",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1528-home_default/pocket-y-blue.jpg"
+    },
+    {
+        "pId": 68,
+        "pName": "SUIT LIGHT GRAY",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "GRAY",
+        "style": "cool",
+        "sizesAvailable": [37],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1388-home_default/suite-light-grey.jpg"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "pId": 31,
+        "pName": "BLUMB BLACK",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "blue",
+        "style": "black",
+        "sizesAvailable": [39],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66698-home_default/plump-black.jpg"
+    },
+    {
+        "pId": 32,
+        "pName": "HOME STUDIO",
+        "pPrice": 62,
+        "inStock": 8,
+        "color": "black",
+        "style": "casual",
+        "sizesAvailable": [47, 36],
+        "category": "slippers",
+        "imgSrc": "https://eu.muroexe.com/759-home_default/slipper-black.jpg"
+    },
+    {
+        "pId": 33,
+        "pName": "SUITE LIGHT GREY",
+        "pPrice": 164,
+        "inStock": 5,
+        "color": "blue",
+        "style": "gray",
+        "sizesAvailable": [36],
+        "category": "accesories",
+        "imgSrc": "https://eu.muroexe.com/1388-home_default/suite-light-grey.jpg"
+    },
+    {
+        "pId": 34,
+        "pName": "METERIA MOD CAMEL",
+        "pPrice": 132,
+        "inStock": 21,
+        "color": "brown",
+        "style": "cool",
+        "sizesAvailable": [38, 44],
+        "category": "sneakers",
+        "imgSrc": "https://eu.muroexe.com/66668-home_default/materia-mod-camel.jpg"
+    }
+]

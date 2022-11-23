@@ -1,0 +1,100 @@
+[
+    {
+        "pId": 16,
+        "pName": "BLUMB BLACK",
+        "pPrice": 127,
+        "inStock": 4,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/938-home_default/sigma-brown.jpg"
+    },
+    {
+        "pId": 17,
+        "pName": "NOOK BLACK",
+        "pPrice": 152,
+        "inStock": 8,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 38, 45],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/945-home_default/sigma-black.jpg"
+    },
+    {
+        "pId": 18,
+        "pName": "MATARIA MOD CAMEL",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "brown",
+        "style": "Water resistant",
+        "sizesAvailable": [38, 40, 39, 47],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66698-home_default/plump-black.jpg"
+    },
+    {
+        "pId": 19,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66701-home_default/plump-honey.jpg"
+    },
+    {
+        "pId": 20,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 132,
+        "inStock": 6,
+        "color": "white",
+        "style": "cool",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66706-home_default/plump-skin.jpg"
+    },
+    {
+        "pId": 21,
+        "pName": "MAREIA STUDIO BLACK",
+        "pPrice":230,
+        "inStock": 6,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [47, 38, 46, 37],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66683-home_default/nook-black.jpg"
+    },
+    {
+        "pId": 22,
+        "pName": "MAREIA STUDIO BLACK",
+        "pPrice": 330,
+        "inStock": 12,
+        "color": "black",
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66688-home_default/nook-almond.jpg"
+    },
+    {
+        "pId": 23,
+        "pName": "ATOM CALIFORNIA",
+        "pPrice": 285,
+        "inStock": 7,
+        "style": "Water resistant",
+        "sizesAvailable": [37, 38, 39, 40],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/66692-home_default/nook-light.jpg"
+    },
+    {
+        "pId": 24,
+        "pName": "ATOM CUSTOM",
+        "pPrice": 285,
+        "inStock": 7,
+        "color": "gray",
+        "style": "cool",
+        "sizesAvailable": [37],
+        "category": "shoes",
+        "imgSrc": "https://eu.muroexe.com/856-home_default/marathon-osaka.jpg"
+    }
+]
