@@ -8,7 +8,7 @@
         "style": "Water resistant",
         "sizesAvailable": [37, 38, 39, 40],
         "category": "boots",
-        "imgSrc": "https://eu.muroexe.com/66727-home_default/deimos-black.jpg"
+        "imgSrc": "https://eu.muroexe.com/66763-large_default/deimos-black.jpg"
     },
     {
         "pId": 45,
@@ -52,7 +52,7 @@
         "style": "cool",
         "sizesAvailable": [37, 38, 39, 40],
         "category": "boots",
-        "imgSrc": "https://eu.muroexe.com/66706-home_default/plump-skin.jpg"
+        "imgSrc": "https://eu.muroexe.com/66354-large_default/custom.jpg"
     },
     {
         "pId": 49,
@@ -96,6 +96,6 @@
         "style": "cool",
         "sizesAvailable": [37],
         "category": "boots",
-        "imgSrc": "https://eu.muroexe.com/66711-home_default/deimos-beige.jpg"
+        "imgSrc": "https://eu.muroexe.com/81-large_default/alpha-neo-beige.jpg"
     }
 ]
